@@ -32,7 +32,7 @@ The objective of this project was to explore **generative AI** capabilities in m
 
 ## Demo
 
-**Watch the Demo Video**: [https://drive.google.com/file/d/1MHgqGbjWaeYR7sojKrOMQzIf2sXXTNSe/view?usp=sharing]
+**Watch the Demo Video**: [https://drive.google.com/file/d/1s1fKxFYvApVLpRClh-pUewNIESAUei6H/view?usp=sharing]
 
 ---
 
