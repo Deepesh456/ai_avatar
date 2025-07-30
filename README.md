@@ -32,13 +32,13 @@ The objective of this project was to explore **generative AI** capabilities in m
 
 ## Demo
 
-🔗 **Watch the Demo Video**: [https://drive.google.com/file/d/1MHgqGbjWaeYR7sojKrOMQzIf2sXXTNSe/view?usp=sharing]
+**Watch the Demo Video**: [https://drive.google.com/file/d/1MHgqGbjWaeYR7sojKrOMQzIf2sXXTNSe/view?usp=sharing]
 
 ---
 
 ## Folder Structure
 
----
+```
 ai_avatar/
 ├── input/
 │ └── amitabh_image.jpg 
@@ -47,10 +47,7 @@ ai_avatar/
 ├── avatar.ipynb 
 ├── requirements.txt 
 └── README.md
----
-
----
-
+```
 ## How It Works
 
 1. **Input**: A still image and a written script
